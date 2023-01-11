@@ -1,0 +1,9 @@
+cam0 filter=lfs diff=lfs merge=lfs -text
+cam1 filter=lfs diff=lfs merge=lfs -text
+imu0 filter=lfs diff=lfs merge=lfs -text
+pointcloud0 filter=lfs diff=lfs merge=lfs -text
+state_groundtruth_estimate0 filter=lfs diff=lfs merge=lfs -text
+vicon0 filter=lfs diff=lfs merge=lfs -text
+body.yaml filter=lfs diff=lfs merge=lfs -text
+pointcloud0/data.ply filter=lfs diff=lfs merge=lfs -text
+┌────────────────────────────────────────────────────────────────────┐ filter=lfs diff=lfs merge=lfs -text
